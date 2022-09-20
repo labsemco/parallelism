@@ -31,6 +31,9 @@ The two following columns refer to Sanders et al. 2018 terminology:
 - Polarity: ``pos`` (positive) or ``neg`` (negative)
 - Operation: ``add`` (additive) or ``cau`` (causal) or ``add/cau`` (in case a manual review is required)
 
-## Desciption of the 
+## Desciption of the ``.ipynb files``
 
+First ``constituency-trees`` allows to display and save constituency trees obtained thanks to *Stanza* parser. We recommend to have a look at the <a href="https://stanfordnlp.github.io/stanza/data_objects.html">documentation to understand how this class-oriented library actually works. 
+
+Second ``tree-edit-distance`` allows to compute the TED value thanks to the *edist* library.  We recommend to have a look at the <a href="https://edist.readthedocs.io/en/latest/">documentation and <a href="https://gitlab.ub.uni-bielefeld.de/bpaassen/python-edit-distances/-/tree/master/">tutorials provided to understand how this class-oriented library actually works.
  
