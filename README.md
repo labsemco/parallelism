@@ -27,7 +27,7 @@ We end up with 39271 relations, available in the pandas DataFrame ``ted-metrics`
 - deleted: number of deleted nodes i.e. tuples with _None_ on the right side
 - inserted: number of inserted nodes i.e. tuples with _None_ on the left side
 
-The two following columns refer to Sanders et al. 2018 terminology:
+The two following columns refer to <a href="https://www.degruyter.com/document/doi/10.1515/cllt-2016-0078/html">Sanders et al. 2018</a> terminology:
 - Polarity: ``pos`` (positive) or ``neg`` (negative)
 - Operation: ``add`` (additive) or ``cau`` (causal) or ``add/cau`` (in case a manual review is required)
 
