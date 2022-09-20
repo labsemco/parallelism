@@ -31,7 +31,7 @@ The two following columns refer to Sanders et al. 2018 terminology:
 - Polarity: ``pos`` (positive) or ``neg`` (negative)
 - Operation: ``add`` (additive) or ``cau`` (causal) or ``add/cau`` (in case a manual review is required)
 
-## Desciption of the ``.ipynb files``
+## Desciption of the ``.ipynb ``files
 
 First ``constituency-trees`` allows to display and save constituency trees obtained thanks to *Stanza* parser. We recommend to have a look at the <a href="https://stanfordnlp.github.io/stanza/data_objects.html">documentation</a> to understand how this class-oriented library actually works. 
 
